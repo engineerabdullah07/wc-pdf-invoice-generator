@@ -1,0 +1,36 @@
+/**
+ * PDF Invoice Generator for WooCommerce - Admin Styles
+ */
+
+.wcpig-admin-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-size: 11px;
+    font-weight: 600;
+    text-decoration: none;
+    background: #f0f0f1;
+    color: #2c3338;
+    border: 1px solid #8c8f94;
+    transition: all 0.15s ease-in-out;
+}
+
+.wcpig-admin-btn:hover {
+    background: #2271b1;
+    color: #ffffff;
+    border-color: #2271b1;
+}
+
+.wcpig-admin-metabox-actions {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    padding: 10px 0;
+}
+
+.wcpig-admin-metabox-actions .button {
+    text-align: center;
+    justify-content: center;
+}

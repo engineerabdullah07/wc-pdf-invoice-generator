@@ -1,13 +1,24 @@
 # 🧾 PDF Invoice Generator for WooCommerce
 
+[![Download v1.0.0](https://img.shields.io/badge/Download-v1.0.0%20ZIP-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/engineerabdullah07/wc-pdf-invoice-generator/releases/latest)
 [![WordPress](https://img.shields.io/badge/WordPress-5.0%2B-blue.svg)](https://wordpress.org/)
 [![WooCommerce](https://img.shields.io/badge/WooCommerce-5.0%2B-purple.svg)](https://woocommerce.com/)
 [![PHP](https://img.shields.io/badge/PHP-7.4%2B-indigo.svg)](https://php.net/)
 [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-green.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 
-**PDF Invoice Generator for WooCommerce** is an open-source, CodeCanyon-quality plugin that automates invoice creation and delivery for your WooCommerce e-commerce store.
+**PDF Invoice Generator for WooCommerce** is an open-source WordPress plugin that automates invoice creation, tax compliance, and billing delivery for WooCommerce stores.
 
 Generate clean, tax-compliant, professional invoices with custom company branding, auto-incrementing invoice numbers, and 1-click PDF download capabilities.
+
+---
+
+## 📥 Quick Download & Installation
+
+1. 👉 **[Click here to download the latest `wc-pdf-invoice-generator-v1.0.0.zip`](https://github.com/engineerabdullah07/wc-pdf-invoice-generator/releases/latest)**
+2. In your WordPress Admin, go to **Plugins > Add New > Upload Plugin**.
+3. Select the downloaded ZIP file and click **Install Now**.
+4. Click **Activate Plugin**.
+5. Configure your company name, tax details, and logo in **WooCommerce > Settings > PDF Invoices**!
 
 ---
 
@@ -24,21 +35,6 @@ Generate clean, tax-compliant, professional invoices with custom company brandin
 
 ---
 
-## 🚀 Installation
-
-1. Clone or download this repository:
-   ```bash
-   git clone https://github.com/nexusworks421-boop/wc-pdf-invoice-generator.git
-   ```
-2. Place the folder into your WordPress plugin directory:
-   ```
-   wp-content/plugins/wc-pdf-invoice-generator
-   ```
-3. Activate the plugin via **WordPress Admin > Plugins**.
-4. Configure your company name, tax details, and logo in **WooCommerce > Settings > PDF Invoices**.
-
----
-
 ## ⚙️ Configuration Settings
 
 Under **WooCommerce > Settings > PDF Invoices**:
@@ -51,6 +47,14 @@ Under **WooCommerce > Settings > PDF Invoices**:
 | **Next Invoice Number** | Starting sequence counter |
 | **Template Style** | Choose between Classic, Modern, or Minimal |
 | **Email Notifications** | Choose which order status emails include invoice links |
+
+---
+
+## 🤝 Support & Custom Work
+
+Need custom invoice designs, FBR POS integrations, or customized accounting exports?
+- Open an Issue on this repository
+- ⭐ Star this repository to support development!
 
 ---
 
